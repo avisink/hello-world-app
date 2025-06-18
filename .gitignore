@@ -48,3 +48,10 @@ dist/
 .vscode/
 .DS_Store
 .env
+
+
+The web applications are on my github:
+Hello word example: https://github.com/avisink/hello-world-app
+
+Temperature converter: https://github.com/avisink/temp-converter
+
